@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @TheRoy-99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://theroy-99.github.io/Website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roymrodriguez99?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
-<!---
-TheRoy-99/TheRoy-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Skills
+Javascript, HTML, CSS, SQL y NoSQL, Java, Python
+
+
+# 🚀 About Me:
+Hi i´m Roy 👋
+📖 I'm a student of systems engineering
+🥵 Self-taught
+👾 I love video games
