@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on: Final Engineering Project - Scalable Backend Systems with NestJS & Prisma.<br><br>👯 I’m looking to collaborate on: Open source projects involving React + Vite or high-performance Microservices.<br><br>🤝 I’m looking for help with: Advanced DevOps practices and Cloud Architecture (AWS/Azure).<br><br>🌱 I’m currently learning: Clean Architecture patterns and advanced SQL Optimization.<br><br>💬 Ask me about: NestJS, React, Scrum methodology, and GitFlow.<br><br>⚡ Fun fact: I'm an Ultimate Frisbee player—I know that timing and precision are as critical on the field as they are in a production deployment.
+🔭 I’m currently working on: Final Engineering Project - Scalable Backend Systems with NestJS & Prisma.<br><br>👯 I’m looking to collaborate on: Open source projects involving React + Vite or high-performance Microservices.<br><br>🤝 I’m looking for help with: Advanced DevOps practices and Cloud Architecture (AWS/Azure).<br><br>🌱 I’m currently learning: Clean Architecture patterns and advanced SQL Optimization.<br><br>💬 Ask me about: NestJS, React, Scrum methodology, and GitFlow.<br><br>⚡ Fun fact: I'm an Ultimate Frisbee player—I know that timing and precision are as critical on the field as they are in a production deployment.
 
 
 # 💻 Tech Stack:
